@@ -129,6 +129,8 @@ To build a complete two-factor authentication system that secures user accounts 
      - **Reading**: [Express Sessions](https://www.npmjs.com/package/express-session)  
      - **Video**: [Session Management](https://www.youtube.com/watch?v=OH6Z0dJ_Huk)
   2. Implement middleware for route protection.
+     - **Reading**: [Middleware](https://expressjs.com/en/guide/using-middleware.html)  
+     - **Video**: [MiddleWare](https://www.youtube.com/watch?v=n2c0mf1sza4)
 
 - **Deliverables**:
   - Secure route access with session management.
