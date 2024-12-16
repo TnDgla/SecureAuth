@@ -88,25 +88,6 @@ To build a complete two-factor authentication system that secures user accounts 
 
 **NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
 
-**Project Structure:**
-```
-- src/
-  - routes/
-    - authRoutes.js
-    - mfaRoutes.js
-  - controllers/
-    - authController.js
-    - mfaController.js
-  - models/
-    - userModel.js
-  - config/
-    - dbConfig.js
-    - passportConfig.js
-  - app.js
-- .env
-- package.json
-```
-
 ---
 
 ### **Week-by-Week Learning Plan**
