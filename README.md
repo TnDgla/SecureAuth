@@ -99,8 +99,10 @@ To build a complete two-factor authentication system that secures user accounts 
      - **Video**: [Node.js Basics](https://www.youtube.com/watch?v=TlB_eWDSMt4)
   2. Configure MongoDB and set up a connection.
      - **Reading**: [MongoDB Atlas Guide](https://www.mongodb.com/docs/atlas/getting-started/)  
-     - **Video**: [MongoDB Atlas Walkthrough](https://www.youtube.com/watch?v=rPqRyYJmx2g)
+     - **Video**: [MongoDB Atlas Walkthrough](https://www.youtube.com/watch?v=J6mDkcqU_ZE&t=30s)
   3. Create user schema with Mongoose for storing user details.
+     - **Reading**: [Mongoose Guide](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)  
+     - **Video**: [Mongoose Walkthrough](https://www.youtube.com/watch?v=DZBGEVgL2eE&t=30s)
 
 - **Deliverables**:
   - MongoDB connection and functional user schema.
