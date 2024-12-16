@@ -154,10 +154,10 @@ To build a complete two-factor authentication system that secures user accounts 
 - **Tasks**:
   1. Test API endpoints using Postman.
      - **Reading**: [Postman API Guide](https://learning.postman.com/docs/getting-started/introduction/)  
-     - **Video**: [Postman Basics](https://www.youtube.com/watch?v=HvvE4BYghJ8)
+     - **Video**: [Postman Basics](https://www.youtube.com/watch?v=VywxIQ2ZXw4&t=2s)
   2. Deploy the application to Heroku or AWS.
      - **Reading**: [Heroku Deployment Guide](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
-     - **Video**: [Heroku Deployment](https://www.youtube.com/watch?v=Q9foh9XTglE)
+     - **Video**: [Heroku Deployment](https://www.youtube.com/watch?v=mWLweQV3nFg)
 
 - **Deliverables**:
   - Deployed MFA system.
