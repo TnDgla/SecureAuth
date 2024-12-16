@@ -141,7 +141,7 @@ To build a complete two-factor authentication system that secures user accounts 
 - **Tasks**:
   1. Integrate Speakeasy for generating MFA secrets and tokens.
      - **Reading**: [Speakeasy Guide](https://www.npmjs.com/package/speakeasy)  
-     - **Video**: [MFA Implementation](https://www.youtube.com/watch?v=igRUIfbihPQ)
+     - **Video**: [MFA Implementation](https://www.youtube.com/watch?v=KQya9i6czhM)
   2. Create routes for MFA setup, token verification, and reset.
   3. Generate QR codes for user scanning.
 
@@ -166,11 +166,11 @@ To build a complete two-factor authentication system that secures user accounts 
 
 ### **Screenshots for Reference**
 - **MFA QR Code Generation**  
-  ![QR Code](![image](https://github.com/user-attachments/assets/5fde4ef7-6c4a-4ae3-a50a-ee9c03db672a)
+  ![QR Code](https://github.com/user-attachments/assets/5fde4ef7-6c4a-4ae3-a50a-ee9c03db672a)
 - **Login Page**  
-  ![Login Page](![image](https://github.com/user-attachments/assets/1e6a1265-3a17-4688-b20f-49f0aa17da37)
+  ![Login Page](https://github.com/user-attachments/assets/1e6a1265-3a17-4688-b20f-49f0aa17da37)
 - **Token Verification**  
-  ![Token Verification](![image](https://github.com/user-attachments/assets/a05db9a0-439c-4bc8-82f9-272b1d5260ef)
+  ![Token Verification](https://github.com/user-attachments/assets/a05db9a0-439c-4bc8-82f9-272b1d5260ef)
 ---
 
 ## **References:**
