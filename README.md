@@ -84,6 +84,9 @@ To build a complete two-factor authentication system that secures user accounts 
 ---
 
 ### **Project Structure for Feature Implementation**
+- This project is structured to ensure a systematic and incremental development process. Each week builds upon the previous deliverables, enabling a smooth transition from basic to advanced functionalities.
+
+**NOTE:** Participants are encouraged to customize the design and functionality to make the application unique.
 
 **Project Structure:**
 ```
