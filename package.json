@@ -1,0 +1,20 @@
+{
+  "name": "secureauth",
+  "version": "1.0.0",
+  "description": "**SecureAuth:** This project involves developing a robust multi-factor authentication system to secure user accounts, combining Node.js, Express, Passport.js, and Speakeasy. The MFA system requires users to authenticate using two steps: username-password authentication and time-based OTP validation through an authenticator app like Google Authenticator.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
